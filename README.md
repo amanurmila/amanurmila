@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Md Amanullah and I'm a Frontend Web Developer.</h2>
+<h2 align="left">Hi 👋! My name is Md Amanullah and I'm a MERN Stack Web Developer.</h2>
 
 ###
 
