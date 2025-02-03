@@ -66,6 +66,6 @@
 
 ###
 
-<h4 align="left">I'm a passionate Frontend Web Developer expertise in React js. I've learned this and practicing from almost 2 years. <br>From the beginning it was too hard for me. But now a days It seems like to be easy and enjoyable. <br>Though I have struggled on this field and at last I will be able to do something better on this field. My passion is to achieve perfection on this sector.<br>Keep me in your prayer!!!</h4>
+<h4 align="left">I'm a passionate MERN Stack Web Developer expertise in React js. I've learned this and practicing from almost 2 years. <br>From the beginning it was too hard for me. But now a days It seems like to be easy and enjoyable. <br>Though I have struggled on this field and at last I will be able to do something better on this field. My passion is to achieve perfection on this sector.<br>Keep me in your prayer!!!</h4>
 
 ###
